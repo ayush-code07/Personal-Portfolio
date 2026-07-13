@@ -1,0 +1,71 @@
+{
+  "name": "Ayush Jagnani",
+  "photoUrl": "favicon.svg",
+  "intro": "A Pre-Final Year Student at IIIT Bhubaneswar. Pursuing Information Technology, aspiring Full Stack Developer and Competitive Programmer.",
+  "introHtml": "A Pre-Final Year Student at IIIT Bhubaneswar. Pursuing <span class='text-white font-bold'>Information Technology</span>, aspiring <span class='text-white font-bold'>Full Stack Developer</span> and <span class='text-white font-bold'>Competitive Programmer</span>.",
+  "webpageTitle": "Ayush Jagnani | Portfolio",
+  "resumeUrl": "#",
+  "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
+  "socials": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/ayush-code07",
+      "icon": "mdi:github",
+      "showInContact": true
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/ayush-jagnani",
+      "icon": "mdi:linkedin",
+      "showInContact": true
+    },
+    {
+      "name": "Leetcode",
+      "url": "#",
+      "icon": "devicon-plain:leetcode",
+      "showInContact": false
+    },
+    {
+      "name": "Behance",
+      "url": "#",
+      "icon": "devicon-plain:behance",
+      "showInContact": false
+    },
+    {
+      "name": "Email",
+      "url": "#",
+      "icon": "mdi:email",
+      "showInContact": true
+    },
+    {
+      "name": "Whatsapp",
+      "url": "#",
+      "icon": "mdi:whatsapp",
+      "showInContact": true
+    },
+    {
+      "name": "Facebook",
+      "url": "#",
+      "icon": "mdi:facebook",
+      "showInContact": false
+    },
+    {
+      "name": "Messenger",
+      "url": "#",
+      "icon": "mdi:facebook-messenger",
+      "showInContact": true
+    },
+    {
+      "name": "Instagram",
+      "url": "#",
+      "icon": "mdi:instagram",
+      "showInContact": false
+    },
+    {
+      "name": "Twitter",
+      "url": "#",
+      "icon": "mdi:twitter",
+      "showInContact": false
+    }
+  ]
+}
