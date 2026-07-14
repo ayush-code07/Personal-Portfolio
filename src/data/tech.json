@@ -26,23 +26,8 @@
       ]
     },
     {
-      "title": "Frameworks & Libraries",
+      "title": "Web Development",
       "skills": [
-        {
-          "name": "Tailwind CSS",
-          "level": 2,
-          "icon": "skill-icons:tailwindcss-dark"
-        }
-      ]
-    },
-    {
-      "title": "Frontend",
-      "skills": [
-        {
-          "name": "React",
-          "level": 2,
-          "icon": "skill-icons:react-dark"
-        },
         {
           "name": "HTML",
           "level": 3,
@@ -52,20 +37,25 @@
           "name": "CSS",
           "level": 2,
           "icon": "skill-icons:css"
-        }
-      ]
-    },
-    {
-      "title": "Backend",
-      "skills": [
+        },
+        {
+          "name": "React",
+          "level": 2,
+          "icon": "skill-icons:react-dark"
+        },
+        {
+          "name": "Tailwind CSS",
+          "level": 2,
+          "icon": "skill-icons:tailwindcss-dark"
+        },
         {
           "name": "Node.js",
-          "level": 3,
+          "level": 2,
           "icon": "skill-icons:nodejs-dark"
         },
         {
           "name": "Express.js",
-          "level": 3,
+          "level": 2,
           "icon": "skill-icons:expressjs-dark"
         }
       ]
@@ -82,6 +72,21 @@
           "name": "PostgreSQL",
           "level": 1,
           "icon": "skill-icons:postgresql-dark"
+        }
+      ]
+    },
+    {
+      "title": "Tools",
+      "skills": [
+        {
+          "name": "Git",
+          "level": 3,
+          "icon": "skill-icons:git"
+        },
+        {
+          "name": "GitHub",
+          "level": 3,
+          "icon": "skill-icons:github-dark"
         }
       ]
     }

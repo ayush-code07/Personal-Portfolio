@@ -1,20 +1,40 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
-    "platforms": ["web"],
+    "title": "Contest Tracker",
+    "description": "A Tracker site that tracks contest from all the major platforms so that u don't have to check each platform manually",
+    "images": [
+      "#",
+      "#"
+    ],
+    "tech": [
+      "Node.js",
+      "Express.js",
+      "React",
+      "MongoDB"
+    ],
+    "platforms": [
+      "web"
+    ],
     "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
-    "category": "Published Website"
+    "category": "Website is in development"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
+    "title": "URL Shortener",
+    "description": "A website that shortens the URL",
+    "images": [
+      "#",
+      "#"
+    ],
+    "tech": [
+      "Node.js",
+      "Express.js",
+      "React",
+      "MongoDB"
+    ],
+    "platforms": [
+      "web"
+    ],
     "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "category": "Website"
   }
 ]
